@@ -6,9 +6,10 @@ The purpose of this analysis is to take out 9th grade data from the math and rea
 ##Results
 In this analysis, small amount of numbers were removed from Thomas High School by removing 9th grade scores for math and reading. 
 
-![ replaced_9thgrade](address)
+![replaced_9thgrade](https://github.com/sangyoo1021/School_District_Analysis/blob/main/Resources/replaced_9thgrade.png
+)
 
-![Summary](address)
+![Summary](https://github.com/sangyoo1021/School_District_Analysis/blob/main/Resources/Summary.png)
 
 This was again, analyzed to compare the data with other schools. The school was then compared in passing percentile, which showed in order of Cabrera HS being top, flowed by Thomas HS, Griffin HS, Wilson HS, and Pena HS. 
 
